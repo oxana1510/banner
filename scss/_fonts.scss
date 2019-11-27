@@ -1,0 +1,51 @@
+@font-face {font-family: "SanFranciscoDisplayBold";
+    display: swap;
+    src: url("../fonts/SanFranciscoDisplayBold.eot");
+    src: url("../fonts/SanFranciscoDisplayBold.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/SanFranciscoDisplayBold.woff2") format("woff2"),
+    url("../fonts/SanFranciscoDisplayBold.woff") format("woff"),
+    url("../fonts/SanFranciscoDisplayBold.ttf") format("truetype"),
+    url("../fonts/SanFranciscoDisplayBold.svg#San Francisco Display") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {font-family: "SanFranciscoTextHeavy";
+    display: swap;
+    src: url("../fonts/SanFranciscoTextHeavy.eot");
+    src: url("../fonts/SanFranciscoTextHeavy.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/SanFranciscoTextHeavy.woff2") format("woff2"),
+    url("../fonts/SanFranciscoTextHeavy.woff") format("woff"),
+    url("../fonts/SanFranciscoTextHeavy.ttf") format("truetype"),
+    url("../fonts/SanFranciscoTextHeavy.svg#San Francisco Text") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {font-family: "SanFranciscoTextRegular";
+    display: swap;
+    src: url("../fonts/SanFranciscoTextRegular.eot");
+    src: url("../fonts/SanFranciscoTextRegular.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/SanFranciscoTextRegular.woff2") format("woff2"),
+    url("../fonts/SanFranciscoTextRegular.woff") format("woff"),
+    url("../fonts/SanFranciscoTextRegular.ttf") format("truetype"),
+    url("../fonts/SanFranciscoTextRegular.svg#San Francisco Text") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {font-family: "SFProTextLight";
+    display: swap;
+    src: url("../fonts/SFProTextLight.eot");
+    src: url("../fonts/SFProTextLight.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/SFProTextLight.woff2") format("woff2"),
+    url("../fonts/SFProTextLight.woff") format("woff"),
+    url("../fonts/SFProTextLight.ttf") format("truetype"),
+    url("../fonts/SFProTextLight.svg#SF Pro Text") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+$SFDB: "SanFranciscoDisplayBold";
+$SFTH: "SanFranciscoTextHeavy";
+$SFTR: "SanFranciscoTextRegular";
+$SFTL: "SFProTextLight";
